@@ -8,7 +8,7 @@ iOS and watchOS app, a TypeScript and PostgreSQL backend, and a Claude-powered c
 front to back.
 
 - Live on the App Store: [Fyt: Run Club & Gym Tracker](https://apps.apple.com/us/app/fyt-run-club-gym-tracker/id6783633047)
-- Westminster, CA, open to remote
+- Westminster, CA
 - hanjames55@gmail.com
 
 ## What I work with
