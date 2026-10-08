@@ -6,7 +6,7 @@ to the backend and the deploy pipeline behind it.
 I built Pressure, a workout streak app that has been live on the App Store since July 2026: a SwiftUI
 iOS and watchOS app, a TypeScript and PostgreSQL backend, and a Claude-powered coach.
 
-- Live on the App Store: [Pressure](https://apps.apple.com/us/app/fyt-run-club-gym-tracker/id6783633047), listed as Fyt: Run Club & Gym Tracker until version 1.1 ships
+- Live on the App Store: [Pressure](https://apps.apple.com/us/app/pressure-workout-streak/id6783633047)
 - Portfolio: [jameshan.fyt.life](https://jameshan.fyt.life)
 
 ## What I work with
@@ -23,7 +23,7 @@ iOS and watchOS app, a TypeScript and PostgreSQL backend, and a Claude-powered c
 watchOS app plus a full backend: a 390-endpoint Fastify API on a 202-table Postgres schema, a workout
 ingestion pipeline that merges HealthKit, Strava, Garmin, and FIT uploads into one record, a weekly
 coach and an iMessage assistant built on Claude, and 13,500 tests behind a pre-push gate and blue-green
-deploys. [See it on the App Store](https://apps.apple.com/us/app/fyt-run-club-gym-tracker/id6783633047).
+deploys. [See it on the App Store](https://apps.apple.com/us/app/pressure-workout-streak/id6783633047).
 Source is private, but I'm glad to walk through it.
 
 ---
